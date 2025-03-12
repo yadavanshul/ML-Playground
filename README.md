@@ -2,7 +2,7 @@
 
 An interactive data science platform that leverages AI to make exploratory data analysis, data preprocessing, and machine learning more intuitive and powerful.
 
-![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7305473264347230208/)
+[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7305473264347230208/)
 
 ## 🚀 Overview
 
