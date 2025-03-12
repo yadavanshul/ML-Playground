@@ -2,7 +2,7 @@
 
 An interactive data science platform that leverages AI to make exploratory data analysis, data preprocessing, and machine learning more intuitive and powerful.
 
-![ML Playground Screenshot](https://via.placeholder.com/800x400?text=ML+Playground+Screenshot)
+![LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7305473264347230208/)
 
 ## 🚀 Overview
 
@@ -139,4 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ by [Your Name] 
+Built with ❤️ by Anshul Yadav 
